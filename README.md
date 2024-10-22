@@ -1,6 +1,6 @@
 # cpnt260-css-framework-lab
 
-## Name : Chaital Trivedi
+## Name : Chaitalkumar Trivedi
 
 ## Accordion (Tailwind CSS):
 
